@@ -6,7 +6,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <br/>
   <a href="https://www.linkedin.com/in/luan-saramago/" target="blank"><img align="center"
      src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
      alt="azzar" height="30"/></a>
@@ -15,22 +14,24 @@
      alt="azzar" height="30"/></a>
 
 ### Main skills:
-<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="30" />
 
 ### Tools:
-![Eclipse](https://img.shields.io/badge/Eclipse-%230db7ed.svg?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Github-00000F?style=for-the-badge&logo=github&logoColor=white" alt="Github">
-<img src="https://img.shields.io/badge/Postman-00000F?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/Eclipse-282C34?logo=eclipse&logoColor=764ABC" alt="Eclipse logo" title="Eclipse" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=FFFFFF" alt="Github logo" title="Github" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=E34F26" alt="Postman logo" title="Postman" height="30" />&nbsp;
 
 ### Other Knowledge:
-<img src="https://img.shields.io/badge/Spring-00000F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">&nbsp;
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=47A248" alt="Spring logo" title="Spring" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=FE7A16" alt="MySQL logo" title="MySQL" height="30" />&nbsp;
   
 ### Studying in this moment:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="30" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" />
 <br>
 
 <p  align="center">
