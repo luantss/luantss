@@ -9,13 +9,10 @@
   <br/>
   <a href="https://www.linkedin.com/in/luan-saramago/" target="blank"><img align="center"
      src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-     alt="azzar" height="30"/></a>&nbsp;
+     alt="azzar" height="30"/></a>
   <a href="https://mailto:luan.teixeira.saramago@gmail.com" target="blank"><img align="center"
      src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-     alt="azzar" height="30"/></a>&nbsp;
-  <a href="https://www.instagram.com/luan_saramago/" target="blank"><img align="center"
-     src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-     alt="azzar" height="30"/></a>&nbsp;
+     alt="azzar" height="30"/></a>
 
 ### Main skills:
 <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white" alt="Java">
