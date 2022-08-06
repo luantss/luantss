@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Luan+Saramago;I'm+18+years+old;I'm+from+Campos+dos+Goytacazes-RJ;I+study+Information+Systems+at+IFF+💻;Be+Welcome!+😄)](https://git.io/typing-svg)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/luantss/luantss/blob/main/animacao.gif" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
