@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Luan+Saramago;I'm+19+years+old;I'm+from+Campos+dos+Goytacazes-RJ;I+study+Information+Systems+at+IFF+💻;Be+Welcome!+😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Luan+Saramago;I'm+20+years+old;I'm+from+Campos+dos+Goytacazes-RJ;I+study+Information+Systems+at+IFF+💻;Be+Welcome!+😄)](https://git.io/typing-svg)
 
 <p><img align="right" src="https://github.com/luantss/luantss/blob/main/animacao.gif" /></p>
 
@@ -33,7 +33,6 @@
 <br>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
   <br>
 
@@ -57,14 +56,8 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
                                                                                     
 <br>
   
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luantss}/count.svg" /></p> 
-<br></div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
